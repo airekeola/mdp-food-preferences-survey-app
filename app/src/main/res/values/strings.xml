@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Food Preferences Survey</string>
+    <string name="food_q1">What is your favourite cuisine?</string>
+    <string name="food_q2">How often do you eat out?</string>
+    <string name="food_q3">Do you prefer spicy food?</string>
+    <string name="food_q4">Do you prefer vegetarian food?</string>
+    <string name="food_q5">Do you like sea food?</string>
+
+    <string name="dietary_q1">Are you vegetarian?</string>
+    <string name="dietary_q2">Do you prefer organic food?</string>
+    <string name="dietary_q3">Do you consume dairy products?</string>
+    <string name="dietary_q4">Do you eat fast food?</string>
+    <string name="dietary_q5">Do you have any food allergies?</string>
+
+    <string-array name="food_q1_options">
+        <item>Chinese</item>
+        <item>French</item>
+        <item>Italian</item>
+        <item>Indian</item>
+        <item>Japanese</item>
+        <item>Thai</item>
+        <item>Turkish</item>
+    </string-array>
+
+    <string-array name="food_q2_options">
+        <item>Never</item>
+        <item>Rarely</item>
+        <item>Sometimes</item>
+        <item>Frequently</item>
+    </string-array>
+
+    <string-array name="yes_no_options">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+</resources>
